@@ -1,4 +1,4 @@
-# - What is a list?
+# - What is a list??
 # - A list if a collection of items in a particular order. In python square bracket ([]) indicates a list. 
 # - It is good practice to make the name of a list plural. For example, names, digits, letters as list is a collection of things
 # - Items in a list are separated by commas
