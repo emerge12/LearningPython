@@ -1,2 +1,2 @@
 # LearningPython
-Becoming an python developer
+Becoming the best python developer
